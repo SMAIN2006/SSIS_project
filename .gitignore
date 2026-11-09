@@ -1,0 +1,8 @@
+# Ignore SSIS Temporary & Binary files
+ssis/bin/
+ssis/obj/
+*.dtproj.user
+.vs/
+
+# Ignore large raw CSV files if they are huge (Optional)
+# data/*.csv
